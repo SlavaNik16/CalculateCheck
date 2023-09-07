@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CalculateTest</string>
+    <string name="butStart">Старт</string>
+    <string name="butTrue">Верно</string>
+    <string name="butFalse">Неверно</string>
+
+    <string name="ResultText">Итого решено примеров</string>
+    <string name="AllCount">0</string>
+    <string name="TextTrue">Правильно</string>
+    <string name="CountTrue">0</string>
+    <string name="TextFalse">Не правильно</string>
+    <string name="CountFalse">0</string>
+
+    <string name="TimeText">ВРЕМЯ</string>
+    <string name="Min">Сек</string>
+    <string name="txtMin">0</string>
+    <string name="Max">Рекорд</string>
+    <string name="txtMax">0</string>
+    <string name="Avg">Среднее</string>
+    <string name="txtAvg">0.00</string>
+
+    <string name="ProcentResult">0.00%</string>
+
+    <string name="VarOne">00</string>
+    <string name="Operating">+</string>
+    <string name="VarTwo">00</string>
+    <string name="Equals">=</string>
+
+    <string name="Answer">00</string>
+
+</resources>
